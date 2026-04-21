@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Malek Bouzayani
 
-<!--
-**bouzayani-malek/bouzayani-malek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer | DevOps | Security  
+📍 Sousse, Tunisia  
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💻 Passionné par le développement web et les architectures modernes
+- ⚙️ Expérience avec .NET, Vue.js, DevOps
+- 🔐 Intéressé par la sécurité et l’administration système
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: Vue.js, Ionic, JavaScript
+- Backend: .NET Core, PHP
+- DevOps: Docker, CI/CD
+- Database: MySQL, SQL Server
+
+## 📌 Featured Projects
+- 🔗 [App-ionic-VueJs-with-.net-core-web-api](#)
+- 🔗 [Cabinet.dz](#)
+- 🔗 [GestionStagiaire](#)
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/...
