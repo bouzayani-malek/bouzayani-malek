@@ -18,15 +18,84 @@
 
 ### 💻 Frontend
 
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
+* Vue.js (Nuxt.js)
+* React.js / React Native
+* Angular.js
+* HTML5, CSS3, JavaScript (ES6+)
+* Tailwind CSS, Bootstrap
+
+---
 
 ### ⚙️ Backend
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+* Node.js (Express.js)
+* ASP.NET Core / .NET
+* Laravel (PHP)
+* Spring Boot (Java)
+* Python (AI / scripting)
+
+---
+
+### 🗄️ Databases
+
+* MySQL / MariaDB
+* PostgreSQL
+* MongoDB
+* Redis (caching, sessions)
+* Oracle
+
+---
+
+### 🧰 DevOps & Infrastructure
+
+* Docker / Docker Compose
+* Kubernetes (basics)
+* Jenkins (CI/CD)
+* NGINX / Apache
+* Linux (Ubuntu, server management)
+* PM2 (process manager)
+
+---
+
+### ☁️ Cloud & Hosting
+
+* AWS (EC2, S3 basics)
+* Microsoft Azure
+* VPS / Dedicated Servers
+
+---
+
+### 🎥 Streaming & Media
+
+* FFmpeg (video processing & streaming)
+* HLS / RTMP protocols
+* NGINX RTMP module
+
+---
+
+### 🤖 AI & Automation
+
+* LLM (Large Language Models)
+* CrewAI (multi-agent systems)
+* Prompt Engineering
+* Automation workflows
+
+---
+
+### 🔐 Security & Systems
+
+* Authentication & Authorization (JWT, OAuth basics)
+* Web security practices
+* Server hardening basics
+
+---
+
+### 🧪 Tools & Others
+
+* Git / GitHub / GitLab
+* Postman / Swagger
+* VS Code / IntelliJ
+* MATLAB (academic use)
 
 ### 🧰 DevOps
 
@@ -38,17 +107,96 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Multi-Agent System
+### 🧠 AI Multi-Agent System for Legacy Migration
 
-System for automating legacy application migration using LLM & CrewAI
+**Internship Project (AI Engineer)**
+
+* Designed a multi-agent system to automate legacy application migration
+* Used **LLMs + CrewAI** for orchestration and task delegation
+* Built intelligent workflows for code analysis & transformation
+
+**Tech:** Python, CrewAI, LLMs, Automation
+
+---
 
 ### ⚙️ Video Streaming Platform
 
-Streaming system using FFmpeg, Node.js, Redis & NGINX
+**Fullstack + DevOps Project**
 
-### 💼 SaaS Platforms
+* Developed a scalable streaming system using **FFmpeg & Node.js**
+* Implemented caching with **Redis** and process management via **PM2**
+* Configured **NGINX for streaming delivery (HLS/RTMP)**
+* Built REST APIs for content & user management
 
-Investment platform, loyalty systems & booking apps
+**Tech:** Node.js, Express, FFmpeg, Redis, MySQL, NGINX
+
+---
+
+### 💼 Infinity TV – Reseller Management Panel
+
+* Built a management dashboard for subscription resellers
+* Role-based access control and user management
+* Real-time monitoring and data handling
+
+**Tech:** Node.js, EJS, Sequelize, MySQL
+
+---
+
+### 💸 Istathmer.tn – Investment Platform
+
+* Platform connecting investors with project owners
+* Dashboard, project management & financial workflows
+* Designed scalable backend architecture
+
+**Tech:** Laravel, MySQL, Vue.js
+
+---
+
+### 🎯 Fidclick – Loyalty Platform
+
+* Developed a universal loyalty system accessible to businesses
+* Customer tracking and reward management
+* Scalable architecture for multi-client usage
+
+**Tech:** Laravel, Vue.js, MySQL
+
+---
+
+### 🛠️ Repfone.fr – Repair Network Platform
+
+* Redesigned and improved an existing repair service platform
+* Enhanced UI/UX and backend performance
+* Maintained production system
+
+**Tech:** Laravel, PHP, MySQL
+
+---
+
+### 📊 CRM & Business Tools (Trios Web)
+
+* Developed statistics module for CRM system
+* Fixed bugs and improved performance
+* Worked on multiple production platforms
+
+**Tech:** Nuxt.js, Laravel
+
+---
+
+### 🚚 Logistics & Fleet Management Apps
+
+* Built web & mobile applications for logistics tracking
+* Real-time data handling and scheduling
+
+**Tech:** Node.js, React Native
+
+---
+
+### 🌐 Personal Portfolio
+
+* Designed and developed personal portfolio website
+* Showcases projects and skills
+
+🔗 malek-bouzayani.tn
 
 ---
 
