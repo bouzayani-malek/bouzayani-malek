@@ -16,92 +16,18 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+| Category                   | Technologies                                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 💻 Frontend                | Vue.js (Nuxt.js), React.js, React Native, Angular.js, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap |
+| ⚙️ Backend                 | Node.js (Express.js), ASP.NET Core (.NET), Laravel (PHP), Spring Boot (Java), Python                   |
+| 🗄️ Databases              | MySQL, PostgreSQL, MongoDB, Redis, MariaDB, Oracle                                                     |
+| 🧰 DevOps & Infrastructure | Docker, Docker Compose, Kubernetes, Jenkins, NGINX, Apache, Linux, PM2                                 |
+| ☁️ Cloud & Hosting         | AWS (EC2, S3), Microsoft Azure, VPS / Dedicated Servers                                                |
+| 🎥 Streaming               | FFmpeg, HLS, RTMP, NGINX RTMP                                                                          |
+| 🤖 AI & Automation         | LLM, CrewAI, Prompt Engineering, Automation Workflows                                                  |
+| 🔐 Security                | JWT, OAuth (basics), Web Security Practices                                                            |
+| 🧪 Tools                   | Git, GitHub, GitLab, Postman, Swagger, VS Code, IntelliJ, MATLAB                                       |
 
-* Vue.js (Nuxt.js)
-* React.js / React Native
-* Angular.js
-* HTML5, CSS3, JavaScript (ES6+)
-* Tailwind CSS, Bootstrap
-
----
-
-### ⚙️ Backend
-
-* Node.js (Express.js)
-* ASP.NET Core / .NET
-* Laravel (PHP)
-* Spring Boot (Java)
-* Python (AI / scripting)
-
----
-
-### 🗄️ Databases
-
-* MySQL / MariaDB
-* PostgreSQL
-* MongoDB
-* Redis (caching, sessions)
-* Oracle
-
----
-
-### 🧰 DevOps & Infrastructure
-
-* Docker / Docker Compose
-* Kubernetes (basics)
-* Jenkins (CI/CD)
-* NGINX / Apache
-* Linux (Ubuntu, server management)
-* PM2 (process manager)
-
----
-
-### ☁️ Cloud & Hosting
-
-* AWS (EC2, S3 basics)
-* Microsoft Azure
-* VPS / Dedicated Servers
-
----
-
-### 🎥 Streaming & Media
-
-* FFmpeg (video processing & streaming)
-* HLS / RTMP protocols
-* NGINX RTMP module
-
----
-
-### 🤖 AI & Automation
-
-* LLM (Large Language Models)
-* CrewAI (multi-agent systems)
-* Prompt Engineering
-* Automation workflows
-
----
-
-### 🔐 Security & Systems
-
-* Authentication & Authorization (JWT, OAuth basics)
-* Web security practices
-* Server hardening basics
-
----
-
-### 🧪 Tools & Others
-
-* Git / GitHub / GitLab
-* Postman / Swagger
-* VS Code / IntelliJ
-* MATLAB (academic use)
-
-### 🧰 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx)
 
 ---
 
