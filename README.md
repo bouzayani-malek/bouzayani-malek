@@ -20,4 +20,4 @@
 - 🔗 [GestionStagiaire](#)
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/...
+- LinkedIn: https://www.linkedin.com/in/malek-bouzayani/
